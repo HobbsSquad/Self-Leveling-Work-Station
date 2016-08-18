@@ -1,5 +1,5 @@
 # Self-Leveling-Work-Station
-<i>Work station for woodworking.  Mobile.  Stabile.  Self-Leveling</i>
+<i>Workstation for woodworking.  Mobile.  Stabile.  Self-Leveling</i>
 
 Physical construction will resemble <a href="http://lumberjocks.com/projects/27579">this</a>.  Here's how we're going to take it to the next level:
 
